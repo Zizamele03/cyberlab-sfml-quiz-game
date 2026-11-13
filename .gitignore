@@ -1,0 +1,31 @@
+# Build directories
+build/
+bin/
+obj/
+out/
+Debug/
+Release/
+x64/
+x86/
+External/
+
+# Compiled files & DLLs
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# Visual Studio / VS Code generated
+.vs/
+.vscode/
+*.sln
+*.vcxproj*
+*.user
+
+# OS generated
+.DS_Store
+Thumbs.db

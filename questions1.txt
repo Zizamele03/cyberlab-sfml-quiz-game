@@ -1,0 +1,117 @@
+BEGIN_QUESTION
+Question_title|FIREWALL COMPROMISED
+Narrative|MalX has infiltrated the CyberLab firewall, leaving it wide open. To restore basic security, you must answer this fundamental question about firewalls.
+Hint|A firewall filters incoming and outgoing network traffic.
+Question|What is the primary function of a firewall in cybersecurity?
+Correct_answer|A) To filter and monitor network traffic
+A|To filter and monitor network traffic
+B|To increase internet speed
+C|To store passwords securely
+D|To hack into other systems
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|BACKDOOR DETECTED!
+Narrative|MalX has planted a backdoor, allowing unauthorized access! Before you can close it, identify what a backdoor actually is.
+Hint|Think of it as a secret entrance that bypasses security measures.
+Question|In cybersecurity, what is a backdoor?
+Correct_answer|B) An undocumented way to access a system
+A|A secure VPN connection
+B|An undocumented way to access a system
+C|A type of firewall
+D|A software update
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|GLITCHING PASSWORD SYSTEM
+Narrative|MalX has scrambled the password system, making weak passwords easier to guess! You must remind the system of what makes a strong password.
+Hint|A strong password contains varied characters.
+Question|Which of the following is an example of a strong password?
+Correct_answer|C) Jx$9!kzA#B2
+A|12345678
+B|Password123
+C|Jx$9!kzA#B2
+D|Qwerty
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|MALX INTERFERES WITH NETWORK!
+Narrative|MalX is attempting to manipulate your network connection! If you can identify a common networking device, you may regain control.
+Hint|It directs data between devices.
+Question|What device connects multiple computers in a network and directs data between them?
+Correct_answer|B) Router
+A|Firewall
+B|Router
+C|Monitor
+D|USB Hub
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|FALSE CLUE DETECTED!
+Narrative|MalX has left deceptive clues in the system logs. Determine whether the following statement is true or false to filter out false information.
+Hint|Think about how antivirus programs actually work.
+Question|An antivirus program prevents all viruses from infecting a computer.
+Correct_answer|B) False
+A|True
+B|False
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|ENCRYPTION LOCKDOWN
+Narrative|MalX has encrypted critical data! To restore access, identify the strongest encryption algorithm available.
+Hint|The U.S. government uses this encryption standard.
+Question|Which of the following is considered one of the strongest encryption methods?
+Correct_answer|B) AES-256
+A|DES
+B|AES-256
+C|MD5
+D|Base64
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|FAULTY CODE DETECTED!
+Narrative|MalX has tampered with a basic security program. Identify what’s wrong with the following code snippet:
+Hint|The loop condition never changes!
+Question|What is wrong with this while loop? while (true) { System.out.println("Security Check..."); }
+Correct_answer|C) It will run forever unless stopped manually
+A|It will only run once
+B|It is missing a semicolon
+C|It will run forever unless stopped manually
+D|It has a syntax error
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|PHISHING ATTACK WARNING!
+Narrative|MalX has sent phishing emails to trick users into revealing their credentials! Stop the attack by identifying the common sign of phishing.
+Hint|Phishing emails often ask for urgent action.
+Question|Which of the following is a common characteristic of a phishing email?
+Correct_answer|A) It uses urgent language and asks for personal information
+A|It uses urgent language and asks for personal information
+B|It is always from a trusted sender
+C|It never has spelling errors
+D|It only affects business emails
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|SERVER MALFUNCTION!
+Narrative|MalX has overclocked the server CPU, making it unstable! You must quickly answer a hardware-related question to stabilize it.
+Hint|The CPU is the brain of the computer.
+Question|What component of a computer executes program instructions?
+Correct_answer|C) CPU
+A|Hard Drive
+B|RAM
+C|CPU
+D|Power Supply
+END_QUESTION
+
+BEGIN_QUESTION
+Question_title|FINAL DEFENSE: LOGIC GATE CHALLENGE
+Narrative|MalX’s last trick is a faulty security system built using logic gates! If you can determine the output of the following gate, you win.
+Hint|AND gates only output true (1) when both inputs are true.
+Question|What is the output of an AND gate when both inputs are 0 and 1?
+Correct_answer|B) 0
+A|1
+B|0
+C|Undefined
+D|Both 0 and 1
+END_QUESTION
